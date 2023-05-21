@@ -1,0 +1,2886 @@
+{
+    "Landroid/view/animation/ScaleAnimation;->setInterpolator": {
+        "call_num": 1847,
+        "app_num": 1401
+    },
+    "Landroid/view/View;->isSelected": {
+        "call_num": 2175,
+        "app_num": 1150
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isFocusable": {
+        "call_num": 1283,
+        "app_num": 1272
+    },
+    "Landroid/app/Notification$Builder;->setContentIntent": {
+        "call_num": 7179,
+        "app_num": 1298
+    },
+    "Ljava/lang/RuntimeException;-><init>": {
+        "call_num": 185737,
+        "app_num": 1889
+    },
+    "Landroid/widget/TextView;->getLeft": {
+        "call_num": 4857,
+        "app_num": 1193
+    },
+    "Landroid/content/SharedPreferences;->getString": {
+        "call_num": 67204,
+        "app_num": 2030
+    },
+    "Landroid/widget/EdgeEffect;->draw": {
+        "call_num": 1774,
+        "app_num": 1295
+    },
+    "Landroid/database/Cursor;->getString": {
+        "call_num": 92140,
+        "app_num": 1820
+    },
+    "Landroid/view/KeyEvent;->getKeyCode": {
+        "call_num": 10214,
+        "app_num": 1546
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setParent": {
+        "call_num": 2387,
+        "app_num": 1239
+    },
+    "Landroid/content/res/Resources;->getDisplayMetrics": {
+        "call_num": 69591,
+        "app_num": 1844
+    },
+    "Ljava/lang/IllegalStateException;-><init>": {
+        "call_num": 393039,
+        "app_num": 1823
+    },
+    "Landroid/content/Intent;->getFlags": {
+        "call_num": 2016,
+        "app_num": 1316
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isEnabled": {
+        "call_num": 1317,
+        "app_num": 1273
+    },
+    "Landroid/view/View;->restoreHierarchyState": {
+        "call_num": 2868,
+        "app_num": 1318
+    },
+    "Landroid/content/ComponentName;-><init>": {
+        "call_num": 24469,
+        "app_num": 1828
+    },
+    "Landroid/content/res/Resources;->getConfiguration": {
+        "call_num": 27296,
+        "app_num": 1837
+    },
+    "Ljava/io/Writer;-><init>": {
+        "call_num": 3843,
+        "app_num": 1368
+    },
+    "Landroid/view/View;->getParent": {
+        "call_num": 47513,
+        "app_num": 1526
+    },
+    "Landroid/content/Intent;->setPackage": {
+        "call_num": 23323,
+        "app_num": 1292
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setTextSpacing": {
+        "call_num": 1158,
+        "app_num": 1157
+    },
+    "Landroid/app/AlertDialog$Builder;->create": {
+        "call_num": 19305,
+        "app_num": 1821
+    },
+    "Ljava/util/HashMap;-><init>": {
+        "call_num": 268917,
+        "app_num": 2225
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setBackgroundColor": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Ljavax/crypto/Cipher;->init": {
+        "call_num": 9249,
+        "app_num": 1344
+    },
+    "Landroid/support/v4/view/ViewPager;->invalidate": {
+        "call_num": 1347,
+        "app_num": 1280
+    },
+    "Ljava/io/FileOutputStream;-><init>": {
+        "call_num": 40159,
+        "app_num": 2182
+    },
+    "Landroid/content/Intent;->setComponent": {
+        "call_num": 17772,
+        "app_num": 1599
+    },
+    "Ljava/util/List;->add": {
+        "call_num": 717471,
+        "app_num": 2197
+    },
+    "Landroid/view/MotionEvent;->getPointerId": {
+        "call_num": 12068,
+        "app_num": 1409
+    },
+    "Landroid/app/Activity;->getIntent": {
+        "call_num": 13055,
+        "app_num": 1453
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isVisibleToUser": {
+        "call_num": 1243,
+        "app_num": 1223
+    },
+    "Landroid/graphics/Canvas;->rotate": {
+        "call_num": 12919,
+        "app_num": 1382
+    },
+    "Landroid/content/Intent;->getAction": {
+        "call_num": 52093,
+        "app_num": 2314
+    },
+    "Landroid/app/Activity;->onNewIntent": {
+        "call_num": 1723,
+        "app_num": 956
+    },
+    "Ljava/lang/Boolean;->parseBoolean": {
+        "call_num": 10199,
+        "app_num": 1124
+    },
+    "Landroid/database/Cursor;->requery": {
+        "call_num": 1392,
+        "app_num": 1270
+    },
+    "Ljava/lang/String;->split": {
+        "call_num": 86154,
+        "app_num": 2108
+    },
+    "Landroid/view/ViewConfiguration;->getScaledTouchSlop": {
+        "call_num": 10626,
+        "app_num": 1376
+    },
+    "Landroid/os/Parcel;->writeInt": {
+        "call_num": 609150,
+        "app_num": 1592
+    },
+    "Ljava/lang/UnsupportedOperationException;-><init>": {
+        "call_num": 142691,
+        "app_num": 1672
+    },
+    "Landroid/widget/Button;->setText": {
+        "call_num": 22444,
+        "app_num": 1474
+    },
+    "Landroid/os/Handler;-><init>": {
+        "call_num": 110405,
+        "app_num": 2146
+    },
+    "Landroid/view/View;->isPressed": {
+        "call_num": 2330,
+        "app_num": 1225
+    },
+    "Landroid/webkit/WebViewClient;-><init>": {
+        "call_num": 12246,
+        "app_num": 1696
+    },
+    "Ljavax/crypto/Cipher;->getInstance": {
+        "call_num": 8721,
+        "app_num": 1344
+    },
+    "Landroid/view/animation/AlphaAnimation;-><init>": {
+        "call_num": 10968,
+        "app_num": 1696
+    },
+    "Landroid/app/Notification$Builder;->setProgress": {
+        "call_num": 5130,
+        "app_num": 1214
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->recycle": {
+        "call_num": 1279,
+        "app_num": 1225
+    },
+    "Landroid/app/Notification$BigTextStyle;->setBigContentTitle": {
+        "call_num": 1259,
+        "app_num": 1186
+    },
+    "Landroid/view/View;->offsetLeftAndRight": {
+        "call_num": 7786,
+        "app_num": 1296
+    },
+    "Landroid/widget/TextView;->setTextColor": {
+        "call_num": 69393,
+        "app_num": 1812
+    },
+    "Ljava/io/BufferedReader;-><init>": {
+        "call_num": 21018,
+        "app_num": 2225
+    },
+    "Ljava/lang/CharSequence;->length": {
+        "call_num": 29041,
+        "app_num": 1500
+    },
+    "Ljava/lang/Exception;->getMessage": {
+        "call_num": 61507,
+        "app_num": 1471
+    },
+    "Landroid/view/View$AccessibilityDelegate;->dispatchPopulateAccessibilityEvent": {
+        "call_num": 1291,
+        "app_num": 1279
+    },
+    "Landroid/content/SharedPreferences$Editor;->putLong": {
+        "call_num": 24143,
+        "app_num": 1595
+    },
+    "Ljava/lang/Math;->max": {
+        "call_num": 212725,
+        "app_num": 1788
+    },
+    "Landroid/app/Activity;->shouldUpRecreateTask": {
+        "call_num": 1242,
+        "app_num": 1223
+    },
+    "Ljava/io/BufferedReader;->close": {
+        "call_num": 25898,
+        "app_num": 1938
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isCheckable": {
+        "call_num": 1283,
+        "app_num": 1270
+    },
+    "Landroid/support/v4/view/ViewPager;->getMeasuredHeight": {
+        "call_num": 1313,
+        "app_num": 1304
+    },
+    "Ljava/util/ArrayList;->add": {
+        "call_num": 350942,
+        "app_num": 2170
+    },
+    "Landroid/widget/TextView;->getTextColors": {
+        "call_num": 1519,
+        "app_num": 1217
+    },
+    "Landroid/app/Activity;->finish": {
+        "call_num": 18338,
+        "app_num": 1796
+    },
+    "Ljava/util/Arrays;->toString": {
+        "call_num": 14067,
+        "app_num": 1546
+    },
+    "Landroid/support/v4/view/ViewPager;->addViewInLayout": {
+        "call_num": 1304,
+        "app_num": 1304
+    },
+    "Landroid/view/ViewGroup;->onDraw": {
+        "call_num": 3006,
+        "app_num": 1295
+    },
+    "Landroid/support/v4/view/ViewPager;->setMeasuredDimension": {
+        "call_num": 1304,
+        "app_num": 1304
+    },
+    "Landroid/view/animation/ScaleAnimation;->setDuration": {
+        "call_num": 3361,
+        "app_num": 1522
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getText": {
+        "call_num": 1934,
+        "app_num": 1274
+    },
+    "Ljava/lang/String;->startsWith": {
+        "call_num": 159510,
+        "app_num": 2146
+    },
+    "Landroid/widget/Toast;->show": {
+        "call_num": 56827,
+        "app_num": 1970
+    },
+    "Landroid/database/DataSetObservable;-><init>": {
+        "call_num": 1954,
+        "app_num": 1271
+    },
+    "Ljava/util/ArrayList;->toArray": {
+        "call_num": 26942,
+        "app_num": 1549
+    },
+    "Landroid/content/BroadcastReceiver;-><init>": {
+        "call_num": 34916,
+        "app_num": 2519
+    },
+    "Landroid/os/Parcel;->writeParcelable": {
+        "call_num": 12404,
+        "app_num": 1341
+    },
+    "Landroid/view/View;->getImportantForAccessibility": {
+        "call_num": 1323,
+        "app_num": 1272
+    },
+    "Landroid/widget/TextView;->setTextAppearance": {
+        "call_num": 12335,
+        "app_num": 1311
+    },
+    "Landroid/view/Menu;->findItem": {
+        "call_num": 6657,
+        "app_num": 1313
+    },
+    "Ljava/lang/Class;->isMemberClass": {
+        "call_num": 2402,
+        "app_num": 1348
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isFocused": {
+        "call_num": 1286,
+        "app_num": 1272
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setAccessibilityFocused": {
+        "call_num": 1248,
+        "app_num": 1224
+    },
+    "Landroid/support/v4/view/ViewPager;->setDescendantFocusability": {
+        "call_num": 1261,
+        "app_num": 1261
+    },
+    "Landroid/view/MotionEvent;->getEdgeFlags": {
+        "call_num": 1555,
+        "app_num": 1333
+    },
+    "Landroid/view/animation/DecelerateInterpolator;-><init>": {
+        "call_num": 10540,
+        "app_num": 1670
+    },
+    "Landroid/support/v4/view/ViewPager;->setPageMarginDrawable": {
+        "call_num": 1287,
+        "app_num": 1248
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getParent": {
+        "call_num": 1188,
+        "app_num": 1188
+    },
+    "Landroid/content/SharedPreferences$Editor;->putInt": {
+        "call_num": 22896,
+        "app_num": 1863
+    },
+    "Landroid/content/res/AssetManager;->open": {
+        "call_num": 11713,
+        "app_num": 1657
+    },
+    "Landroid/database/Cursor;->registerDataSetObserver": {
+        "call_num": 2588,
+        "app_num": 1265
+    },
+    "Landroid/app/ProgressDialog;-><init>": {
+        "call_num": 4673,
+        "app_num": 1248
+    },
+    "Ljava/lang/Exception;->printStackTrace": {
+        "call_num": 183594,
+        "app_num": 2050
+    },
+    "Landroid/util/SparseArray;->clear": {
+        "call_num": 4311,
+        "app_num": 1332
+    },
+    "Landroid/view/ViewGroup;->getRight": {
+        "call_num": 2352,
+        "app_num": 1288
+    },
+    "Landroid/view/FocusFinder;->getInstance": {
+        "call_num": 4713,
+        "app_num": 1300
+    },
+    "Landroid/os/AsyncTask;-><init>": {
+        "call_num": 26919,
+        "app_num": 1811
+    },
+    "Landroid/view/View$MeasureSpec;->getSize": {
+        "call_num": 38647,
+        "app_num": 1570
+    },
+    "Landroid/support/v4/view/ViewPager;->playSoundEffect": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/view/ViewGroup;->dispatchKeyEvent": {
+        "call_num": 1522,
+        "app_num": 1287
+    },
+    "Ljava/lang/Object;->getClass": {
+        "call_num": 330752,
+        "app_num": 2178
+    },
+    "Landroid/app/Notification$Builder;->setOngoing": {
+        "call_num": 6934,
+        "app_num": 1280
+    },
+    "Landroid/app/Notification$Builder;->setAutoCancel": {
+        "call_num": 7463,
+        "app_num": 1282
+    },
+    "Landroid/content/SharedPreferences;->getInt": {
+        "call_num": 26320,
+        "app_num": 1862
+    },
+    "Landroid/webkit/WebSettings;->setJavaScriptEnabled": {
+        "call_num": 12109,
+        "app_num": 1694
+    },
+    "Ljava/io/IOException;->printStackTrace": {
+        "call_num": 76037,
+        "app_num": 1789
+    },
+    "Landroid/app/Notification$Builder;->getNotification": {
+        "call_num": 3293,
+        "app_num": 1295
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->onDraw": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/view/View;->setLayoutParams": {
+        "call_num": 17630,
+        "app_num": 1680
+    },
+    "Landroid/support/v4/view/ViewPager;->checkLayoutParams": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/os/Handler;->getLooper": {
+        "call_num": 7960,
+        "app_num": 1358
+    },
+    "Landroid/database/Cursor;->unregisterContentObserver": {
+        "call_num": 1324,
+        "app_num": 1263
+    },
+    "Landroid/content/Context;->registerReceiver": {
+        "call_num": 15319,
+        "app_num": 1714
+    },
+    "Ljava/lang/StringBuilder;->append": {
+        "call_num": 8871856,
+        "app_num": 2809
+    },
+    "Ljava/util/ArrayList;-><init>": {
+        "call_num": 631564,
+        "app_num": 2417
+    },
+    "Ljava/lang/String;->equalsIgnoreCase": {
+        "call_num": 186361,
+        "app_num": 1921
+    },
+    "Landroid/content/res/TypedArray;->getColor": {
+        "call_num": 12580,
+        "app_num": 1280
+    },
+    "Landroid/view/animation/AccelerateInterpolator;-><init>": {
+        "call_num": 9518,
+        "app_num": 1556
+    },
+    "Landroid/support/v4/view/ViewPager;->getWidth": {
+        "call_num": 11246,
+        "app_num": 1304
+    },
+    "Landroid/widget/TextView;->setTransformationMethod": {
+        "call_num": 1918,
+        "app_num": 1274
+    },
+    "Landroid/support/v4/app/FragmentActivity;->getMenuInflater": {
+        "call_num": 1362,
+        "app_num": 1250
+    },
+    "Landroid/view/View;->getMeasuredWidth": {
+        "call_num": 53906,
+        "app_num": 1467
+    },
+    "Landroid/app/Notification$InboxStyle;-><init>": {
+        "call_num": 1242,
+        "app_num": 1196
+    },
+    "Ljava/util/HashMap;->put": {
+        "call_num": 381022,
+        "app_num": 2011
+    },
+    "Landroid/support/v4/app/FragmentActivity;->getLayoutInflater": {
+        "call_num": 3897,
+        "app_num": 1250
+    },
+    "Landroid/widget/LinearLayout$LayoutParams;-><init>": {
+        "call_num": 61319,
+        "app_num": 1772
+    },
+    "Landroid/os/PowerManager;->newWakeLock": {
+        "call_num": 3009,
+        "app_num": 1277
+    },
+    "Landroid/os/Bundle;->get": {
+        "call_num": 22325,
+        "app_num": 1897
+    },
+    "Landroid/widget/TextView;->setOnClickListener": {
+        "call_num": 21193,
+        "app_num": 1686
+    },
+    "Landroid/widget/Scroller;->isFinished": {
+        "call_num": 6453,
+        "app_num": 1375
+    },
+    "Landroid/view/KeyEvent;->getRepeatCount": {
+        "call_num": 5462,
+        "app_num": 1480
+    },
+    "Landroid/view/LayoutInflater;->inflate": {
+        "call_num": 88739,
+        "app_num": 1700
+    },
+    "Landroid/database/Cursor;->getColumnIndex": {
+        "call_num": 66433,
+        "app_num": 1372
+    },
+    "Landroid/support/v4/view/ViewPager;->getChildAt": {
+        "call_num": 20455,
+        "app_num": 1304
+    },
+    "Landroid/content/Intent;->addFlags": {
+        "call_num": 46273,
+        "app_num": 2032
+    },
+    "Landroid/view/MenuInflater;->inflate": {
+        "call_num": 6346,
+        "app_num": 1211
+    },
+    "Landroid/widget/Toast;->makeText": {
+        "call_num": 56207,
+        "app_num": 1971
+    },
+    "Ljava/lang/reflect/Modifier;->isStatic": {
+        "call_num": 4837,
+        "app_num": 1370
+    },
+    "Landroid/app/Notification$Builder;-><init>": {
+        "call_num": 7845,
+        "app_num": 1310
+    },
+    "Ljava/util/Map$Entry;->getKey": {
+        "call_num": 113571,
+        "app_num": 1797
+    },
+    "Landroid/view/View;->setImportantForAccessibility": {
+        "call_num": 1476,
+        "app_num": 1273
+    },
+    "Ljava/lang/Math;->floor": {
+        "call_num": 8916,
+        "app_num": 1394
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getWidth": {
+        "call_num": 1179,
+        "app_num": 1179
+    },
+    "Ljava/io/InputStream;->read": {
+        "call_num": 54545,
+        "app_num": 2152
+    },
+    "Ljava/lang/String;->getBytes": {
+        "call_num": 110002,
+        "app_num": 1945
+    },
+    "Landroid/database/DataSetObservable;->unregisterObserver": {
+        "call_num": 1409,
+        "app_num": 1276
+    },
+    "Ljava/lang/Boolean;->valueOf": {
+        "call_num": 290056,
+        "app_num": 2223
+    },
+    "Ljava/lang/System;->currentTimeMillis": {
+        "call_num": 196765,
+        "app_num": 2306
+    },
+    "Landroid/view/ViewGroup;->addView": {
+        "call_num": 28819,
+        "app_num": 1549
+    },
+    "Ljava/lang/StringBuilder;->delete": {
+        "call_num": 4562,
+        "app_num": 1583
+    },
+    "Landroid/view/View;->requestFocus": {
+        "call_num": 12286,
+        "app_num": 1461
+    },
+    "Landroid/app/Notification$BigPictureStyle;->setBigContentTitle": {
+        "call_num": 1233,
+        "app_num": 1187
+    },
+    "Landroid/graphics/Canvas;->drawRect": {
+        "call_num": 17547,
+        "app_num": 1582
+    },
+    "Landroid/app/Notification$Builder;->setUsesChronometer": {
+        "call_num": 3820,
+        "app_num": 1187
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->setWillNotDraw": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Ljava/io/FileInputStream;-><init>": {
+        "call_num": 31914,
+        "app_num": 1946
+    },
+    "Landroid/support/v4/view/ViewPager;->getScrollX": {
+        "call_num": 18447,
+        "app_num": 1304
+    },
+    "Landroid/app/NotificationManager;->notify": {
+        "call_num": 14441,
+        "app_num": 1899
+    },
+    "Ljava/util/ArrayList;->remove": {
+        "call_num": 65801,
+        "app_num": 1654
+    },
+    "Landroid/app/Activity;->onCreateView": {
+        "call_num": 1655,
+        "app_num": 1252
+    },
+    "Landroid/view/MenuItem;->setIntent": {
+        "call_num": 3078,
+        "app_num": 1247
+    },
+    "Ljava/lang/Class;->getSimpleName": {
+        "call_num": 109428,
+        "app_num": 1885
+    },
+    "Landroid/content/pm/PackageManager;->getActivityIcon": {
+        "call_num": 1301,
+        "app_num": 1164
+    },
+    "Landroid/app/Activity;->onConfigurationChanged": {
+        "call_num": 2419,
+        "app_num": 1288
+    },
+    "Ljava/lang/Class;->getDeclaredMethod": {
+        "call_num": 31933,
+        "app_num": 1699
+    },
+    "Landroid/support/v4/view/PagerTabStrip;-><init>": {
+        "call_num": 1148,
+        "app_num": 1146
+    },
+    "Landroid/text/TextUtils;->writeToParcel": {
+        "call_num": 7445,
+        "app_num": 1337
+    },
+    "Ljava/io/File;->getPath": {
+        "call_num": 33253,
+        "app_num": 1771
+    },
+    "Landroid/view/View$AccessibilityDelegate;->sendAccessibilityEventUnchecked": {
+        "call_num": 1290,
+        "app_num": 1279
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getPaddingTop": {
+        "call_num": 3564,
+        "app_num": 1188
+    },
+    "Landroid/util/Log;->e": {
+        "call_num": 391777,
+        "app_num": 2111
+    },
+    "Landroid/graphics/drawable/Drawable;->setBounds": {
+        "call_num": 32450,
+        "app_num": 1476
+    },
+    "Landroid/view/View;->clearAnimation": {
+        "call_num": 9613,
+        "app_num": 1408
+    },
+    "Landroid/graphics/Canvas;->save": {
+        "call_num": 30160,
+        "app_num": 1545
+    },
+    "Landroid/view/accessibility/AccessibilityRecord;->setScrollable": {
+        "call_num": 1271,
+        "app_num": 1265
+    },
+    "Landroid/view/ViewGroup;->drawableStateChanged": {
+        "call_num": 1569,
+        "app_num": 1291
+    },
+    "Landroid/view/MotionEvent;->getPointerCount": {
+        "call_num": 4262,
+        "app_num": 1295
+    },
+    "Landroid/view/View$AccessibilityDelegate;->onRequestSendAccessibilityEvent": {
+        "call_num": 1290,
+        "app_num": 1279
+    },
+    "Landroid/widget/FrameLayout;->setId": {
+        "call_num": 5505,
+        "app_num": 1263
+    },
+    "Landroid/content/Context;->startActivities": {
+        "call_num": 2579,
+        "app_num": 1226
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->addView": {
+        "call_num": 3549,
+        "app_num": 1183
+    },
+    "Ljava/lang/Class;->getField": {
+        "call_num": 9821,
+        "app_num": 1361
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getContentDescription": {
+        "call_num": 1295,
+        "app_num": 1275
+    },
+    "Landroid/widget/TextView;->getContext": {
+        "call_num": 4354,
+        "app_num": 1280
+    },
+    "Ljava/lang/reflect/Field;->get": {
+        "call_num": 29101,
+        "app_num": 1544
+    },
+    "Landroid/os/Handler;->removeMessages": {
+        "call_num": 33428,
+        "app_num": 1649
+    },
+    "Landroid/content/SharedPreferences;->getBoolean": {
+        "call_num": 25506,
+        "app_num": 1709
+    },
+    "Landroid/content/ContentResolver;->query": {
+        "call_num": 19690,
+        "app_num": 1680
+    },
+    "Landroid/database/DataSetObservable;->registerObserver": {
+        "call_num": 1414,
+        "app_num": 1277
+    },
+    "Landroid/content/Context;->getResources": {
+        "call_num": 173758,
+        "app_num": 2232
+    },
+    "Ljava/util/Random;->nextInt": {
+        "call_num": 16024,
+        "app_num": 1727
+    },
+    "Landroid/support/v4/view/ViewPager;->getContext": {
+        "call_num": 3878,
+        "app_num": 1303
+    },
+    "Landroid/support/v4/view/ViewPager;->getPaddingTop": {
+        "call_num": 7730,
+        "app_num": 1304
+    },
+    "Landroid/app/Activity;-><init>": {
+        "call_num": 21869,
+        "app_num": 2685
+    },
+    "Landroid/app/Service;->onDestroy": {
+        "call_num": 4343,
+        "app_num": 1286
+    },
+    "Landroid/content/SharedPreferences;->getLong": {
+        "call_num": 22164,
+        "app_num": 1587
+    },
+    "Landroid/view/View;->getOverScrollMode": {
+        "call_num": 1323,
+        "app_num": 1272
+    },
+    "Landroid/view/MotionEvent;->findPointerIndex": {
+        "call_num": 6991,
+        "app_num": 1330
+    },
+    "Ljava/lang/Integer;->valueOf": {
+        "call_num": 993560,
+        "app_num": 2308
+    },
+    "Ljava/io/FileOutputStream;->close": {
+        "call_num": 46890,
+        "app_num": 1994
+    },
+    "Ljava/lang/Class;->getClassLoader": {
+        "call_num": 58400,
+        "app_num": 1632
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setBoundsInScreen": {
+        "call_num": 1262,
+        "app_num": 1230
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setFocused": {
+        "call_num": 1240,
+        "app_num": 1226
+    },
+    "Landroid/util/Log;->isLoggable": {
+        "call_num": 57702,
+        "app_num": 1229
+    },
+    "Landroid/view/ViewGroup;->onRestoreInstanceState": {
+        "call_num": 7565,
+        "app_num": 1325
+    },
+    "Landroid/graphics/Canvas;->translate": {
+        "call_num": 22486,
+        "app_num": 1514
+    },
+    "Ljava/lang/Integer;->numberOfTrailingZeros": {
+        "call_num": 2492,
+        "app_num": 1274
+    },
+    "Ljava/lang/Object;->toString": {
+        "call_num": 130070,
+        "app_num": 2068
+    },
+    "Landroid/support/v4/view/ViewPager;->getPaddingBottom": {
+        "call_num": 5143,
+        "app_num": 1304
+    },
+    "Ljava/io/PrintWriter;-><init>": {
+        "call_num": 10761,
+        "app_num": 1593
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isClickable": {
+        "call_num": 1298,
+        "app_num": 1272
+    },
+    "Landroid/app/Notification$Builder;->addAction": {
+        "call_num": 2779,
+        "app_num": 1213
+    },
+    "Landroid/support/v4/app/FragmentActivity;->getWindow": {
+        "call_num": 4890,
+        "app_num": 1250
+    },
+    "Landroid/app/AlertDialog$Builder;-><init>": {
+        "call_num": 26926,
+        "app_num": 1896
+    },
+    "Landroid/content/res/Resources;->getColor": {
+        "call_num": 47841,
+        "app_num": 1365
+    },
+    "Ljava/lang/reflect/Method;->invoke": {
+        "call_num": 122281,
+        "app_num": 2046
+    },
+    "Landroid/widget/TextView;->setText": {
+        "call_num": 235422,
+        "app_num": 2250
+    },
+    "Landroid/view/accessibility/AccessibilityRecord;->setFromIndex": {
+        "call_num": 1265,
+        "app_num": 1258
+    },
+    "Ljava/lang/StringBuilder;->toString": {
+        "call_num": 3031501,
+        "app_num": 2809
+    },
+    "Landroid/view/View;->setId": {
+        "call_num": 4960,
+        "app_num": 1438
+    },
+    "Landroid/view/View$MeasureSpec;->getMode": {
+        "call_num": 35606,
+        "app_num": 1509
+    },
+    "Landroid/view/accessibility/AccessibilityEvent;->setClassName": {
+        "call_num": 8709,
+        "app_num": 1280
+    },
+    "Landroid/graphics/drawable/Drawable;->setState": {
+        "call_num": 16405,
+        "app_num": 1323
+    },
+    "Landroid/content/SharedPreferences;->contains": {
+        "call_num": 7207,
+        "app_num": 1167
+    },
+    "Ljava/lang/Integer;->toHexString": {
+        "call_num": 72978,
+        "app_num": 1864
+    },
+    "Landroid/support/v4/view/ViewPager;->generateLayoutParams": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Ljava/lang/String;->valueOf": {
+        "call_num": 852611,
+        "app_num": 2514
+    },
+    "Ljava/util/Collections;->sort": {
+        "call_num": 18863,
+        "app_num": 1676
+    },
+    "Landroid/os/Parcel;->readParcelable": {
+        "call_num": 13854,
+        "app_num": 1341
+    },
+    "Landroid/support/v4/view/ViewPager;->generateDefaultLayoutParams": {
+        "call_num": 1280,
+        "app_num": 1279
+    },
+    "Landroid/support/v4/view/ViewPager;->getWindowToken": {
+        "call_num": 1310,
+        "app_num": 1304
+    },
+    "Landroid/app/ProgressDialog;->dismiss": {
+        "call_num": 8285,
+        "app_num": 1256
+    },
+    "Ljava/io/InputStreamReader;-><init>": {
+        "call_num": 22231,
+        "app_num": 2269
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->setPadding": {
+        "call_num": 1178,
+        "app_num": 1177
+    },
+    "Ljava/lang/Math;->sin": {
+        "call_num": 17270,
+        "app_num": 1472
+    },
+    "Landroid/content/res/TypedArray;->getBoolean": {
+        "call_num": 30941,
+        "app_num": 1301
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->setTabIndicatorColor": {
+        "call_num": 1175,
+        "app_num": 1158
+    },
+    "Landroid/content/Context;->unregisterReceiver": {
+        "call_num": 9857,
+        "app_num": 1619
+    },
+    "Landroid/webkit/WebView;->loadUrl": {
+        "call_num": 18535,
+        "app_num": 1560
+    },
+    "Landroid/app/ProgressDialog;->show": {
+        "call_num": 6656,
+        "app_num": 1278
+    },
+    "Landroid/os/Parcel;->writeIntArray": {
+        "call_num": 6676,
+        "app_num": 1331
+    },
+    "Landroid/view/ViewConfiguration;->get": {
+        "call_num": 14626,
+        "app_num": 1388
+    },
+    "Landroid/support/v4/view/ViewPager;->getDefaultSize": {
+        "call_num": 2608,
+        "app_num": 1304
+    },
+    "Landroid/widget/TabHost;->setOnTabChangedListener": {
+        "call_num": 1397,
+        "app_num": 1156
+    },
+    "Landroid/content/Context;->getString": {
+        "call_num": 109368,
+        "app_num": 1349
+    },
+    "Landroid/provider/Settings$Secure;->getString": {
+        "call_num": 9346,
+        "app_num": 1536
+    },
+    "Landroid/view/animation/AnimationSet;->addAnimation": {
+        "call_num": 11443,
+        "app_num": 1649
+    },
+    "Landroid/os/Handler;->sendEmptyMessage": {
+        "call_num": 20056,
+        "app_num": 1741
+    },
+    "Landroid/view/View;->postInvalidateOnAnimation": {
+        "call_num": 1392,
+        "app_num": 1295
+    },
+    "Ljava/lang/Integer;->intValue": {
+        "call_num": 257517,
+        "app_num": 2142
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setVisibleToUser": {
+        "call_num": 1245,
+        "app_num": 1224
+    },
+    "Landroid/view/ViewGroup;->getBottom": {
+        "call_num": 2385,
+        "app_num": 1288
+    },
+    "Landroid/widget/EdgeEffect;->finish": {
+        "call_num": 1406,
+        "app_num": 1283
+    },
+    "Landroid/widget/FrameLayout$LayoutParams;-><init>": {
+        "call_num": 36897,
+        "app_num": 1741
+    },
+    "Landroid/app/Notification$BigTextStyle;-><init>": {
+        "call_num": 2309,
+        "app_num": 1203
+    },
+    "Landroid/os/Bundle;->getBoolean": {
+        "call_num": 34245,
+        "app_num": 1697
+    },
+    "Landroid/graphics/drawable/Drawable;->isStateful": {
+        "call_num": 10796,
+        "app_num": 1312
+    },
+    "Landroid/content/IntentFilter;-><init>": {
+        "call_num": 26079,
+        "app_num": 2258
+    },
+    "Landroid/os/Environment;->getExternalStorageDirectory": {
+        "call_num": 29578,
+        "app_num": 1893
+    },
+    "Landroid/content/res/Resources;->openRawResource": {
+        "call_num": 4409,
+        "app_num": 1256
+    },
+    "Landroid/graphics/Rect;-><init>": {
+        "call_num": 83630,
+        "app_num": 1782
+    },
+    "Landroid/app/Activity;->onDestroy": {
+        "call_num": 8913,
+        "app_num": 1930
+    },
+    "Landroid/view/MenuItem;->getItemId": {
+        "call_num": 14497,
+        "app_num": 1589
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isPassword": {
+        "call_num": 1289,
+        "app_num": 1270
+    },
+    "Landroid/view/ViewGroup;-><init>": {
+        "call_num": 17500,
+        "app_num": 1412
+    },
+    "Landroid/app/Activity;->invalidateOptionsMenu": {
+        "call_num": 1457,
+        "app_num": 1315
+    },
+    "Landroid/view/View;->getScrollY": {
+        "call_num": 6486,
+        "app_num": 1317
+    },
+    "Ljava/lang/String;->replace": {
+        "call_num": 58624,
+        "app_num": 1952
+    },
+    "Ljava/io/IOException;->getMessage": {
+        "call_num": 22444,
+        "app_num": 1413
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setBackgroundResource": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/widget/TextView;->layout": {
+        "call_num": 6674,
+        "app_num": 1274
+    },
+    "Landroid/util/AttributeSet;->getAttributeValue": {
+        "call_num": 4877,
+        "app_num": 1544
+    },
+    "Landroid/util/SparseArray;-><init>": {
+        "call_num": 23309,
+        "app_num": 1423
+    },
+    "Landroid/view/ViewGroup;->getTop": {
+        "call_num": 2582,
+        "app_num": 1310
+    },
+    "Landroid/os/Parcelable$Creator;->createFromParcel": {
+        "call_num": 148494,
+        "app_num": 1442
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getActions": {
+        "call_num": 1282,
+        "app_num": 1272
+    },
+    "Landroid/database/Cursor;->moveToPosition": {
+        "call_num": 7912,
+        "app_num": 1323
+    },
+    "Ljava/io/PrintWriter;->print": {
+        "call_num": 350013,
+        "app_num": 1364
+    },
+    "Landroid/os/Handler;->handleMessage": {
+        "call_num": 9502,
+        "app_num": 1608
+    },
+    "Landroid/widget/LinearLayout;->addView": {
+        "call_num": 73379,
+        "app_num": 1867
+    },
+    "Landroid/app/AlertDialog$Builder;->setNegativeButton": {
+        "call_num": 15250,
+        "app_num": 1743
+    },
+    "Landroid/app/Notification$Builder;->setLargeIcon": {
+        "call_num": 6494,
+        "app_num": 1259
+    },
+    "Landroid/widget/EdgeEffect;-><init>": {
+        "call_num": 1755,
+        "app_num": 1279
+    },
+    "Landroid/widget/EdgeEffect;->onPull": {
+        "call_num": 2169,
+        "app_num": 1295
+    },
+    "Landroid/support/v4/view/ViewPager;->getPaddingLeft": {
+        "call_num": 8312,
+        "app_num": 1304
+    },
+    "Landroid/database/DataSetObserver;-><init>": {
+        "call_num": 7230,
+        "app_num": 1357
+    },
+    "Ljava/lang/String;->equals": {
+        "call_num": 1159607,
+        "app_num": 2643
+    },
+    "Ljava/util/ArrayList;->clear": {
+        "call_num": 54665,
+        "app_num": 1683
+    },
+    "Landroid/view/View;->findViewById": {
+        "call_num": 260844,
+        "app_num": 1677
+    },
+    "Landroid/app/Notification$Builder;->setPriority": {
+        "call_num": 4370,
+        "app_num": 1204
+    },
+    "Landroid/os/SystemClock;->uptimeMillis": {
+        "call_num": 24963,
+        "app_num": 1514
+    },
+    "Landroid/util/AttributeSet;->getPositionDescription": {
+        "call_num": 5374,
+        "app_num": 1322
+    },
+    "Landroid/content/Context;->obtainStyledAttributes": {
+        "call_num": 48814,
+        "app_num": 1412
+    },
+    "Ljava/lang/Integer;->parseInt": {
+        "call_num": 102956,
+        "app_num": 2455
+    },
+    "Ljava/lang/RuntimeException;->fillInStackTrace": {
+        "call_num": 3972,
+        "app_num": 1317
+    },
+    "Ljava/lang/InterruptedException;->printStackTrace": {
+        "call_num": 9374,
+        "app_num": 1441
+    },
+    "Ljava/util/Iterator;->next": {
+        "call_num": 692673,
+        "app_num": 2308
+    },
+    "Ljava/lang/Math;->round": {
+        "call_num": 67943,
+        "app_num": 1683
+    },
+    "Landroid/util/Log;->d": {
+        "call_num": 229647,
+        "app_num": 2112
+    },
+    "Landroid/app/AlertDialog$Builder;->setPositiveButton": {
+        "call_num": 21600,
+        "app_num": 1838
+    },
+    "Landroid/view/ViewGroup;->checkLayoutParams": {
+        "call_num": 4204,
+        "app_num": 1298
+    },
+    "Landroid/view/ViewGroup;->getLeft": {
+        "call_num": 2492,
+        "app_num": 1303
+    },
+    "Landroid/database/ContentObserver;-><init>": {
+        "call_num": 3792,
+        "app_num": 1358
+    },
+    "Landroid/content/Context;->getSystemService": {
+        "call_num": 151993,
+        "app_num": 2373
+    },
+    "Landroid/app/Notification$Builder;->setNumber": {
+        "call_num": 6317,
+        "app_num": 1245
+    },
+    "Landroid/graphics/Rect;->union": {
+        "call_num": 1524,
+        "app_num": 1247
+    },
+    "Landroid/support/v4/app/FragmentActivity;->onCreateContextMenu": {
+        "call_num": 1251,
+        "app_num": 1249
+    },
+    "Landroid/telephony/TelephonyManager;->getLine": {
+        "call_num": 2457,
+        "app_num": 1116
+    },
+    "Landroid/support/v4/view/ViewPager;->hasFocus": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Ljava/lang/Class;->newInstance": {
+        "call_num": 16730,
+        "app_num": 1688
+    },
+    "Landroid/content/res/ColorStateList;->getDefaultColor": {
+        "call_num": 5676,
+        "app_num": 1264
+    },
+    "Landroid/view/accessibility/AccessibilityRecord;->obtain": {
+        "call_num": 2301,
+        "app_num": 1193
+    },
+    "Landroid/widget/TextView;->getMeasuredWidth": {
+        "call_num": 8821,
+        "app_num": 1260
+    },
+    "Landroid/widget/Button;->setOnClickListener": {
+        "call_num": 39122,
+        "app_num": 1905
+    },
+    "Ljava/lang/System;->arraycopy": {
+        "call_num": 201710,
+        "app_num": 1901
+    },
+    "Landroid/database/Cursor;->getColumnIndexOrThrow": {
+        "call_num": 25311,
+        "app_num": 1493
+    },
+    "Ljava/lang/Math;->min": {
+        "call_num": 170721,
+        "app_num": 1887
+    },
+    "Landroid/view/animation/Animation;->setAnimationListener": {
+        "call_num": 8950,
+        "app_num": 1575
+    },
+    "Ljava/lang/Thread;-><init>": {
+        "call_num": 66362,
+        "app_num": 2313
+    },
+    "Landroid/view/KeyEvent;->metaStateHasModifiers": {
+        "call_num": 1290,
+        "app_num": 1281
+    },
+    "Landroid/os/Bundle;->getSparseParcelableArray": {
+        "call_num": 6763,
+        "app_num": 1332
+    },
+    "Landroid/app/Activity;->startActivityForResult": {
+        "call_num": 9534,
+        "app_num": 1495
+    },
+    "Landroid/app/Activity;->startActivity": {
+        "call_num": 17924,
+        "app_num": 1721
+    },
+    "Ljava/util/Set;->iterator": {
+        "call_num": 194571,
+        "app_num": 1893
+    },
+    "Landroid/app/Notification$Builder;->setContent": {
+        "call_num": 6872,
+        "app_num": 1255
+    },
+    "Landroid/support/v4/view/ViewPager$LayoutParams;-><init>": {
+        "call_num": 2433,
+        "app_num": 1210
+    },
+    "Landroid/support/v4/view/ViewPager;->requestLayout": {
+        "call_num": 4430,
+        "app_num": 1300
+    },
+    "Ljava/util/Random;-><init>": {
+        "call_num": 15686,
+        "app_num": 1755
+    },
+    "Landroid/view/animation/Animation;->setDuration": {
+        "call_num": 22245,
+        "app_num": 1532
+    },
+    "Landroid/view/View;->canScrollHorizontally": {
+        "call_num": 1474,
+        "app_num": 1290
+    },
+    "Landroid/view/ViewConfiguration;->getScaledPagingTouchSlop": {
+        "call_num": 1682,
+        "app_num": 1297
+    },
+    "Ljava/lang/reflect/Constructor;->newInstance": {
+        "call_num": 18868,
+        "app_num": 1463
+    },
+    "Landroid/os/Looper;->myLooper": {
+        "call_num": 22109,
+        "app_num": 1635
+    },
+    "Landroid/os/Bundle;->putBoolean": {
+        "call_num": 39167,
+        "app_num": 1569
+    },
+    "Landroid/app/Activity;->onCreate": {
+        "call_num": 21579,
+        "app_num": 2680
+    },
+    "Landroid/view/KeyEvent;->getMetaState": {
+        "call_num": 4265,
+        "app_num": 1311
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getPaddingTop": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/view/ViewGroup;->onDetachedFromWindow": {
+        "call_num": 7899,
+        "app_num": 1294
+    },
+    "Landroid/util/Log;->v": {
+        "call_num": 261362,
+        "app_num": 1810
+    },
+    "Ljava/net/URL;-><init>": {
+        "call_num": 41053,
+        "app_num": 1997
+    },
+    "Landroid/os/Bundle;->putParcelableArray": {
+        "call_num": 6296,
+        "app_num": 1277
+    },
+    "Landroid/webkit/WebView;->getSettings": {
+        "call_num": 24314,
+        "app_num": 1591
+    },
+    "Ljava/lang/Math;->abs": {
+        "call_num": 130674,
+        "app_num": 1821
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isSelected": {
+        "call_num": 1283,
+        "app_num": 1272
+    },
+    "Ljava/lang/Thread;->sleep": {
+        "call_num": 21787,
+        "app_num": 2038
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getPaddingBottom": {
+        "call_num": 3559,
+        "app_num": 1188
+    },
+    "Landroid/content/SharedPreferences$Editor;->commit": {
+        "call_num": 78559,
+        "app_num": 2155
+    },
+    "Landroid/graphics/drawable/Drawable;->draw": {
+        "call_num": 25332,
+        "app_num": 1459
+    },
+    "Landroid/view/ViewConfiguration;->getScaledMaximumFlingVelocity": {
+        "call_num": 5201,
+        "app_num": 1344
+    },
+    "Landroid/app/Activity;->onStop": {
+        "call_num": 5103,
+        "app_num": 1612
+    },
+    "Landroid/view/View;->getTop": {
+        "call_num": 70861,
+        "app_num": 1416
+    },
+    "Landroid/support/v4/view/ViewPager;->getMeasuredWidth": {
+        "call_num": 2245,
+        "app_num": 1304
+    },
+    "Landroid/os/Parcel;->writeString": {
+        "call_num": 276896,
+        "app_num": 1585
+    },
+    "Landroid/view/View;->canScrollVertically": {
+        "call_num": 1353,
+        "app_num": 1244
+    },
+    "Landroid/os/Parcel;->writeTypedArray": {
+        "call_num": 4467,
+        "app_num": 1326
+    },
+    "Landroid/app/Notification$Builder;->setFullScreenIntent": {
+        "call_num": 6290,
+        "app_num": 1244
+    },
+    "Landroid/widget/TextView;->measure": {
+        "call_num": 8046,
+        "app_num": 1214
+    },
+    "Landroid/support/v4/view/ViewPager;->isFocusable": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/database/Cursor;->isClosed": {
+        "call_num": 9764,
+        "app_num": 1332
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->addChild": {
+        "call_num": 2396,
+        "app_num": 1230
+    },
+    "Landroid/os/Bundle;-><init>": {
+        "call_num": 144542,
+        "app_num": 1751
+    },
+    "Landroid/support/v4/app/FragmentActivity;->onCreatePanelMenu": {
+        "call_num": 1263,
+        "app_num": 1192
+    },
+    "Landroid/support/v4/view/ViewPager;->setCurrentItem": {
+        "call_num": 14307,
+        "app_num": 1264
+    },
+    "Ljava/lang/Integer;->toString": {
+        "call_num": 62631,
+        "app_num": 1804
+    },
+    "Landroid/app/Notification$BigPictureStyle;->setSummaryText": {
+        "call_num": 1235,
+        "app_num": 1185
+    },
+    "Landroid/app/ProgressDialog;->setMessage": {
+        "call_num": 4448,
+        "app_num": 1174
+    },
+    "Landroid/os/Parcel;->readString": {
+        "call_num": 218914,
+        "app_num": 1582
+    },
+    "Landroid/content/res/TypedArray;->getInteger": {
+        "call_num": 6569,
+        "app_num": 1327
+    },
+    "Landroid/view/ViewGroup;->onSizeChanged": {
+        "call_num": 2879,
+        "app_num": 1320
+    },
+    "Landroid/content/res/TypedArray;->getString": {
+        "call_num": 17346,
+        "app_num": 1368
+    },
+    "Landroid/app/Notification;-><init>": {
+        "call_num": 7938,
+        "app_num": 1987
+    },
+    "Landroid/view/View$AccessibilityDelegate;->onInitializeAccessibilityEvent": {
+        "call_num": 1308,
+        "app_num": 1279
+    },
+    "Landroid/app/Notification$Builder;->setSubText": {
+        "call_num": 3833,
+        "app_num": 1190
+    },
+    "Landroid/view/Window;->getAttributes": {
+        "call_num": 7952,
+        "app_num": 1614
+    },
+    "Landroid/view/LayoutInflater;->setFactory": {
+        "call_num": 3547,
+        "app_num": 1317
+    },
+    "Landroid/view/View;->getRight": {
+        "call_num": 32019,
+        "app_num": 1356
+    },
+    "Ljava/lang/Object;->equals": {
+        "call_num": 113508,
+        "app_num": 1905
+    },
+    "Landroid/os/Bundle;->putParcelable": {
+        "call_num": 31654,
+        "app_num": 1431
+    },
+    "Ljava/lang/String;->toCharArray": {
+        "call_num": 60444,
+        "app_num": 1519
+    },
+    "Landroid/view/View;->measure": {
+        "call_num": 33819,
+        "app_num": 1463
+    },
+    "Landroid/animation/ValueAnimator;->getFrameDelay": {
+        "call_num": 1310,
+        "app_num": 1291
+    },
+    "Landroid/widget/Scroller;->computeScrollOffset": {
+        "call_num": 4644,
+        "app_num": 1380
+    },
+    "Landroid/app/Notification$InboxStyle;->setSummaryText": {
+        "call_num": 1239,
+        "app_num": 1195
+    },
+    "Landroid/view/ViewConfiguration;->getScaledMinimumFlingVelocity": {
+        "call_num": 4557,
+        "app_num": 1294
+    },
+    "Landroid/app/Notification$InboxStyle;->setBigContentTitle": {
+        "call_num": 1236,
+        "app_num": 1191
+    },
+    "Ljava/lang/String;->substring": {
+        "call_num": 224068,
+        "app_num": 2493
+    },
+    "Landroid/view/View;->getTag": {
+        "call_num": 30846,
+        "app_num": 1595
+    },
+    "Ljava/lang/String;->charAt": {
+        "call_num": 124958,
+        "app_num": 2106
+    },
+    "Landroid/support/v4/app/FragmentActivity;->isFinishing": {
+        "call_num": 2485,
+        "app_num": 1250
+    },
+    "Landroid/graphics/drawable/Drawable;->getIntrinsicHeight": {
+        "call_num": 15254,
+        "app_num": 1430
+    },
+    "Landroid/widget/TextView;->setTextSize": {
+        "call_num": 31676,
+        "app_num": 1760
+    },
+    "Landroid/app/Notification;->setLatestEventInfo": {
+        "call_num": 8666,
+        "app_num": 1845
+    },
+    "Landroid/support/v4/view/ViewPager;->setWillNotDraw": {
+        "call_num": 2540,
+        "app_num": 1301
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isAccessibilityFocused": {
+        "call_num": 1228,
+        "app_num": 1219
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setPadding": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isLongClickable": {
+        "call_num": 1283,
+        "app_num": 1272
+    },
+    "Landroid/view/View$AccessibilityDelegate;->getAccessibilityNodeProvider": {
+        "call_num": 1282,
+        "app_num": 1272
+    },
+    "Landroid/view/View$BaseSavedState;-><init>": {
+        "call_num": 15822,
+        "app_num": 1347
+    },
+    "Landroid/view/KeyEvent;->normalizeMetaState": {
+        "call_num": 1272,
+        "app_num": 1267
+    },
+    "Landroid/view/SoundEffectConstants;->getContantForFocusDirection": {
+        "call_num": 1413,
+        "app_num": 1300
+    },
+    "Ljava/io/PrintWriter;->println": {
+        "call_num": 122236,
+        "app_num": 1382
+    },
+    "Landroid/view/ViewGroup;->getParent": {
+        "call_num": 2259,
+        "app_num": 1345
+    },
+    "Landroid/os/Bundle;->getString": {
+        "call_num": 134655,
+        "app_num": 1903
+    },
+    "Landroid/view/MenuItem;->setActionProvider": {
+        "call_num": 1244,
+        "app_num": 1152
+    },
+    "Landroid/support/v4/view/ViewPager;->getPaddingRight": {
+        "call_num": 8287,
+        "app_num": 1304
+    },
+    "Landroid/support/v4/view/ViewPager;->getChildCount": {
+        "call_num": 20504,
+        "app_num": 1304
+    },
+    "Landroid/app/Notification$Builder;->setTicker": {
+        "call_num": 6948,
+        "app_num": 1276
+    },
+    "Ljava/util/TimerTask;-><init>": {
+        "call_num": 8930,
+        "app_num": 1322
+    },
+    "Ljava/util/Timer;-><init>": {
+        "call_num": 9577,
+        "app_num": 1320
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setPackageName": {
+        "call_num": 1269,
+        "app_num": 1230
+    },
+    "Ljava/util/ArrayList;->iterator": {
+        "call_num": 73443,
+        "app_num": 2045
+    },
+    "Ljavax/crypto/Cipher;->doFinal": {
+        "call_num": 8856,
+        "app_num": 1324
+    },
+    "Landroid/support/v4/view/ViewPager;->isFocusableInTouchMode": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/app/Notification$Builder;->setContentText": {
+        "call_num": 7282,
+        "app_num": 1301
+    },
+    "Landroid/app/Activity;->getComponentName": {
+        "call_num": 3403,
+        "app_num": 1316
+    },
+    "Landroid/content/Intent;->putExtra": {
+        "call_num": 271602,
+        "app_num": 2302
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getPaddingBottom": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/os/Parcel;->createIntArray": {
+        "call_num": 4640,
+        "app_num": 1337
+    },
+    "Landroid/content/Intent;->getStringExtra": {
+        "call_num": 71433,
+        "app_num": 2135
+    },
+    "Ljava/io/FileInputStream;->close": {
+        "call_num": 31373,
+        "app_num": 1759
+    },
+    "Landroid/content/res/TypedArray;->hasValue": {
+        "call_num": 28941,
+        "app_num": 1275
+    },
+    "Landroid/os/Handler;->hasMessages": {
+        "call_num": 5731,
+        "app_num": 1368
+    },
+    "Landroid/view/View;->postOnAnimation": {
+        "call_num": 1433,
+        "app_num": 1287
+    },
+    "Landroid/content/Context;->startActivity": {
+        "call_num": 55452,
+        "app_num": 2159
+    },
+    "Ljava/lang/Long;->longValue": {
+        "call_num": 132762,
+        "app_num": 1523
+    },
+    "Landroid/widget/LinearLayout;->setVisibility": {
+        "call_num": 36215,
+        "app_num": 1540
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->setTextSpacing": {
+        "call_num": 1161,
+        "app_num": 1157
+    },
+    "Landroid/support/v4/view/ViewPager;->setFocusable": {
+        "call_num": 1274,
+        "app_num": 1272
+    },
+    "Landroid/content/res/TypedArray;->recycle": {
+        "call_num": 66805,
+        "app_num": 1422
+    },
+    "Ljava/io/IOException;-><init>": {
+        "call_num": 127514,
+        "app_num": 1660
+    },
+    "Ljava/lang/StringBuilder;-><init>": {
+        "call_num": 3059110,
+        "app_num": 2809
+    },
+    "Landroid/view/FocusFinder;->findNextFocus": {
+        "call_num": 4551,
+        "app_num": 1300
+    },
+    "Landroid/os/Bundle;->isEmpty": {
+        "call_num": 3277,
+        "app_num": 1337
+    },
+    "Landroid/graphics/Rect;->set": {
+        "call_num": 30640,
+        "app_num": 1432
+    },
+    "Landroid/view/KeyEvent;->metaStateHasNoModifiers": {
+        "call_num": 1291,
+        "app_num": 1281
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getBoundsInParent": {
+        "call_num": 1293,
+        "app_num": 1276
+    },
+    "Ljava/lang/Runnable;->run": {
+        "call_num": 29729,
+        "app_num": 1486
+    },
+    "Landroid/graphics/Canvas;->restoreToCount": {
+        "call_num": 18691,
+        "app_num": 1439
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getBackground": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/view/VelocityTracker;->addMovement": {
+        "call_num": 15934,
+        "app_num": 1375
+    },
+    "Landroid/view/MenuItem;->setActionView": {
+        "call_num": 2583,
+        "app_num": 1234
+    },
+    "Landroid/app/PendingIntent;->getBroadcast": {
+        "call_num": 12150,
+        "app_num": 1854
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getBoundsInScreen": {
+        "call_num": 1300,
+        "app_num": 1276
+    },
+    "Landroid/view/View;->getVisibility": {
+        "call_num": 60440,
+        "app_num": 1540
+    },
+    "Landroid/content/pm/PackageManager;->getActivityInfo": {
+        "call_num": 4299,
+        "app_num": 1517
+    },
+    "Landroid/content/SharedPreferences;->edit": {
+        "call_num": 97307,
+        "app_num": 2110
+    },
+    "Landroid/widget/LinearLayout;->setOrientation": {
+        "call_num": 22650,
+        "app_num": 1837
+    },
+    "Landroid/app/Notification$Builder;->setWhen": {
+        "call_num": 6576,
+        "app_num": 1267
+    },
+    "Ljava/io/InputStream;->close": {
+        "call_num": 88303,
+        "app_num": 2172
+    },
+    "Landroid/support/v4/view/ViewPager;->getDescendantFocusability": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/os/PowerManager$WakeLock;->release": {
+        "call_num": 4076,
+        "app_num": 1272
+    },
+    "Landroid/view/View$AccessibilityDelegate;-><init>": {
+        "call_num": 3940,
+        "app_num": 1290
+    },
+    "Landroid/view/VelocityTracker;->getYVelocity": {
+        "call_num": 3733,
+        "app_num": 1316
+    },
+    "Landroid/content/SharedPreferences$Editor;->putString": {
+        "call_num": 59826,
+        "app_num": 2038
+    },
+    "Landroid/app/Activity;->onActivityResult": {
+        "call_num": 3234,
+        "app_num": 1598
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getPackageName": {
+        "call_num": 1308,
+        "app_num": 1276
+    },
+    "Ljava/util/HashMap;->get": {
+        "call_num": 120460,
+        "app_num": 1979
+    },
+    "Landroid/view/MenuItem;->setShowAsAction": {
+        "call_num": 1809,
+        "app_num": 1263
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getContext": {
+        "call_num": 1158,
+        "app_num": 1158
+    },
+    "Ljava/lang/ref/WeakReference;-><init>": {
+        "call_num": 54006,
+        "app_num": 1645
+    },
+    "Landroid/view/animation/AlphaAnimation;->setInterpolator": {
+        "call_num": 4256,
+        "app_num": 1542
+    },
+    "Landroid/graphics/Paint;->setColor": {
+        "call_num": 52446,
+        "app_num": 1774
+    },
+    "Ljava/io/File;->length": {
+        "call_num": 27031,
+        "app_num": 1686
+    },
+    "Landroid/support/v4/app/FragmentActivity;->onBackPressed": {
+        "call_num": 1677,
+        "app_num": 1106
+    },
+    "Landroid/support/v4/view/ViewPager;->removeViewAt": {
+        "call_num": 1279,
+        "app_num": 1273
+    },
+    "Landroid/database/Cursor;->registerContentObserver": {
+        "call_num": 3740,
+        "app_num": 1266
+    },
+    "Landroid/view/View;->getId": {
+        "call_num": 29751,
+        "app_num": 1575
+    },
+    "Ljava/util/ArrayList;->set": {
+        "call_num": 14625,
+        "app_num": 1429
+    },
+    "Ljava/io/BufferedReader;->readLine": {
+        "call_num": 22833,
+        "app_num": 2219
+    },
+    "Landroid/view/VelocityTracker;->obtain": {
+        "call_num": 12026,
+        "app_num": 1375
+    },
+    "Landroid/content/res/Resources;->getDrawable": {
+        "call_num": 35060,
+        "app_num": 1634
+    },
+    "Landroid/view/View;->getBottom": {
+        "call_num": 39128,
+        "app_num": 1349
+    },
+    "Landroid/widget/EdgeEffect;->isFinished": {
+        "call_num": 4110,
+        "app_num": 1295
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setEnabled": {
+        "call_num": 1301,
+        "app_num": 1228
+    },
+    "Landroid/view/View$AccessibilityDelegate;->onInitializeAccessibilityNodeInfo": {
+        "call_num": 1315,
+        "app_num": 1279
+    },
+    "Landroid/view/View;->setTag": {
+        "call_num": 19157,
+        "app_num": 1540
+    },
+    "Landroid/content/Intent;->setAction": {
+        "call_num": 35944,
+        "app_num": 2100
+    },
+    "Landroid/view/Menu;->clear": {
+        "call_num": 3031,
+        "app_num": 1340
+    },
+    "Landroid/view/View;->saveHierarchyState": {
+        "call_num": 2872,
+        "app_num": 1318
+    },
+    "Landroid/os/Bundle;->getParcelable": {
+        "call_num": 36704,
+        "app_num": 1461
+    },
+    "Ljava/lang/Object;-><init>": {
+        "call_num": 3526168,
+        "app_num": 2992
+    },
+    "Landroid/widget/ListView;-><init>": {
+        "call_num": 5747,
+        "app_num": 1549
+    },
+    "Landroid/support/v4/app/FragmentActivity;->findViewById": {
+        "call_num": 2866,
+        "app_num": 1250
+    },
+    "Landroid/content/Context;->getApplicationContext": {
+        "call_num": 82914,
+        "app_num": 1912
+    },
+    "Landroid/view/Window;->addFlags": {
+        "call_num": 6326,
+        "app_num": 1500
+    },
+    "Ljava/lang/String;->toString": {
+        "call_num": 13725,
+        "app_num": 1405
+    },
+    "Landroid/support/v4/view/ViewPager;->findFocus": {
+        "call_num": 2562,
+        "app_num": 1279
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getHeight": {
+        "call_num": 2358,
+        "app_num": 1179
+    },
+    "Landroid/support/v4/view/ViewPager;->isInTouchMode": {
+        "call_num": 1279,
+        "app_num": 1279
+    },
+    "Landroid/view/View;->getWidth": {
+        "call_num": 49905,
+        "app_num": 1661
+    },
+    "Landroid/app/Notification$Builder;->build": {
+        "call_num": 5144,
+        "app_num": 1239
+    },
+    "Landroid/app/Notification$Builder;->setOnlyAlertOnce": {
+        "call_num": 6326,
+        "app_num": 1253
+    },
+    "Landroid/view/View;->setLayerType": {
+        "call_num": 3219,
+        "app_num": 1248
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setSource": {
+        "call_num": 2384,
+        "app_num": 1230
+    },
+    "Landroid/content/res/Resources;->getString": {
+        "call_num": 98804,
+        "app_num": 1831
+    },
+    "Landroid/view/View;->getContext": {
+        "call_num": 25842,
+        "app_num": 1531
+    },
+    "Landroid/view/ViewGroup$LayoutParams;-><init>": {
+        "call_num": 25595,
+        "app_num": 1808
+    },
+    "Landroid/os/Parcel;->writeBundle": {
+        "call_num": 9211,
+        "app_num": 1367
+    },
+    "Ljava/lang/Class;->getModifiers": {
+        "call_num": 5259,
+        "app_num": 1422
+    },
+    "Landroid/widget/Scroller;->startScroll": {
+        "call_num": 5502,
+        "app_num": 1379
+    },
+    "Landroid/content/Intent;->getIntExtra": {
+        "call_num": 24014,
+        "app_num": 1461
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setScrollable": {
+        "call_num": 1338,
+        "app_num": 1278
+    },
+    "Landroid/view/LayoutInflater;->getFactory": {
+        "call_num": 3064,
+        "app_num": 1318
+    },
+    "Landroid/app/AlertDialog$Builder;->setMessage": {
+        "call_num": 19967,
+        "app_num": 1850
+    },
+    "Ljava/lang/IndexOutOfBoundsException;-><init>": {
+        "call_num": 23477,
+        "app_num": 1416
+    },
+    "Landroid/view/View$AccessibilityDelegate;->sendAccessibilityEvent": {
+        "call_num": 1312,
+        "app_num": 1280
+    },
+    "Landroid/os/PowerManager$WakeLock;->acquire": {
+        "call_num": 3128,
+        "app_num": 1276
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setSelected": {
+        "call_num": 1240,
+        "app_num": 1226
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isChecked": {
+        "call_num": 1283,
+        "app_num": 1270
+    },
+    "Landroid/os/Handler;->removeCallbacks": {
+        "call_num": 29464,
+        "app_num": 1630
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setContentDescription": {
+        "call_num": 1253,
+        "app_num": 1226
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->addAction": {
+        "call_num": 2330,
+        "app_num": 1283
+    },
+    "Ljava/lang/Object;->hashCode": {
+        "call_num": 67945,
+        "app_num": 1619
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setMovementGranularities": {
+        "call_num": 1206,
+        "app_num": 1189
+    },
+    "Landroid/content/Intent;->getComponent": {
+        "call_num": 6072,
+        "app_num": 1311
+    },
+    "Ljava/lang/Class;->getConstructor": {
+        "call_num": 11523,
+        "app_num": 1388
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->obtain": {
+        "call_num": 4629,
+        "app_num": 1230
+    },
+    "Landroid/view/View;->getLayoutParams": {
+        "call_num": 156738,
+        "app_num": 1662
+    },
+    "Landroid/view/View$BaseSavedState;->writeToParcel": {
+        "call_num": 7887,
+        "app_num": 1347
+    },
+    "Landroid/content/res/TypedArray;->getResourceId": {
+        "call_num": 32760,
+        "app_num": 1360
+    },
+    "Landroid/database/Cursor;->close": {
+        "call_num": 131623,
+        "app_num": 1818
+    },
+    "Landroid/support/v4/view/ViewPager;->getScrollY": {
+        "call_num": 8846,
+        "app_num": 1304
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getPaddingRight": {
+        "call_num": 2266,
+        "app_num": 1179
+    },
+    "Ljava/lang/Object;->clone": {
+        "call_num": 12502,
+        "app_num": 1416
+    },
+    "Landroid/view/ViewGroup;->onSaveInstanceState": {
+        "call_num": 4753,
+        "app_num": 1325
+    },
+    "Ljava/util/List;->get": {
+        "call_num": 369678,
+        "app_num": 2039
+    },
+    "Landroid/util/Log;->w": {
+        "call_num": 311800,
+        "app_num": 1907
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setBoundsInParent": {
+        "call_num": 1262,
+        "app_num": 1230
+    },
+    "Ljava/lang/String;->indexOf": {
+        "call_num": 98706,
+        "app_num": 2123
+    },
+    "Landroid/content/res/Resources;->getText": {
+        "call_num": 7109,
+        "app_num": 1369
+    },
+    "Landroid/app/Notification$Builder;->setDeleteIntent": {
+        "call_num": 6368,
+        "app_num": 1256
+    },
+    "Landroid/widget/TextView;->getMeasuredHeight": {
+        "call_num": 14257,
+        "app_num": 1257
+    },
+    "Ljava/util/ArrayList;->isEmpty": {
+        "call_num": 44977,
+        "app_num": 1510
+    },
+    "Landroid/view/ViewGroup;->draw": {
+        "call_num": 3487,
+        "app_num": 1310
+    },
+    "Landroid/view/VelocityTracker;->recycle": {
+        "call_num": 8470,
+        "app_num": 1375
+    },
+    "Landroid/app/Activity;->onSaveInstanceState": {
+        "call_num": 3257,
+        "app_num": 1395
+    },
+    "Landroid/support/v4/view/ViewPager;->getHeight": {
+        "call_num": 2593,
+        "app_num": 1279
+    },
+    "Landroid/os/Parcel;->readBundle": {
+        "call_num": 9089,
+        "app_num": 1368
+    },
+    "Landroid/content/Context;->getSharedPreferences": {
+        "call_num": 77996,
+        "app_num": 1974
+    },
+    "Landroid/app/Notification$Builder;->setContentTitle": {
+        "call_num": 7351,
+        "app_num": 1301
+    },
+    "Landroid/view/View;->dispatchPopulateAccessibilityEvent": {
+        "call_num": 1577,
+        "app_num": 1290
+    },
+    "Landroid/view/MotionEvent;->getAction": {
+        "call_num": 41819,
+        "app_num": 1814
+    },
+    "Landroid/os/Bundle;->setClassLoader": {
+        "call_num": 17400,
+        "app_num": 1352
+    },
+    "Landroid/text/method/SingleLineTransformationMethod;-><init>": {
+        "call_num": 1197,
+        "app_num": 1191
+    },
+    "Ljava/lang/ClassLoader;->loadClass": {
+        "call_num": 12222,
+        "app_num": 1455
+    },
+    "Landroid/view/animation/AlphaAnimation;->setDuration": {
+        "call_num": 6979,
+        "app_num": 1584
+    },
+    "Landroid/view/ViewGroup;->getChildCount": {
+        "call_num": 20131,
+        "app_num": 1630
+    },
+    "Landroid/widget/EdgeEffect;->setSize": {
+        "call_num": 2002,
+        "app_num": 1295
+    },
+    "Landroid/app/AlertDialog;->show": {
+        "call_num": 13192,
+        "app_num": 1561
+    },
+    "Landroid/view/View;->getScrollX": {
+        "call_num": 5546,
+        "app_num": 1315
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setTextSize": {
+        "call_num": 1139,
+        "app_num": 1139
+    },
+    "Ljava/lang/RuntimeException;->getMessage": {
+        "call_num": 4305,
+        "app_num": 1228
+    },
+    "Landroid/content/res/Resources;->getResourceName": {
+        "call_num": 3739,
+        "app_num": 1249
+    },
+    "Landroid/os/Parcel;->readInt": {
+        "call_num": 432951,
+        "app_num": 1589
+    },
+    "Ljava/util/ArrayList;->size": {
+        "call_num": 398185,
+        "app_num": 2128
+    },
+    "Landroid/view/View;->postInvalidate": {
+        "call_num": 3555,
+        "app_num": 1338
+    },
+    "Landroid/content/IntentFilter;->addAction": {
+        "call_num": 23345,
+        "app_num": 1849
+    },
+    "Landroid/view/View;->getResources": {
+        "call_num": 3952,
+        "app_num": 1302
+    },
+    "Ljava/lang/IllegalArgumentException;-><init>": {
+        "call_num": 537778,
+        "app_num": 1927
+    },
+    "Ljava/lang/Thread;->start": {
+        "call_num": 34182,
+        "app_num": 2105
+    },
+    "Landroid/view/animation/ScaleAnimation;-><init>": {
+        "call_num": 5223,
+        "app_num": 1695
+    },
+    "Landroid/app/Notification$Builder;->setSound": {
+        "call_num": 6417,
+        "app_num": 1253
+    },
+    "Landroid/app/Notification$Builder;->setLights": {
+        "call_num": 6304,
+        "app_num": 1248
+    },
+    "Ljava/util/List;->size": {
+        "call_num": 399895,
+        "app_num": 2059
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getWidth": {
+        "call_num": 2376,
+        "app_num": 1188
+    },
+    "Ljava/lang/Boolean;->booleanValue": {
+        "call_num": 148678,
+        "app_num": 1713
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setBackgroundDrawable": {
+        "call_num": 1177,
+        "app_num": 1177
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setClickable": {
+        "call_num": 1256,
+        "app_num": 1226
+    },
+    "Ljava/lang/Class;->getName": {
+        "call_num": 172766,
+        "app_num": 1939
+    },
+    "Landroid/view/MotionEvent;->getX": {
+        "call_num": 58804,
+        "app_num": 1799
+    },
+    "Ljava/io/File;-><init>": {
+        "call_num": 171454,
+        "app_num": 2206
+    },
+    "Landroid/widget/BaseAdapter;-><init>": {
+        "call_num": 15427,
+        "app_num": 1666
+    },
+    "Landroid/view/ViewGroup;->verifyDrawable": {
+        "call_num": 1651,
+        "app_num": 1291
+    },
+    "Landroid/content/Context;->getContentResolver": {
+        "call_num": 46946,
+        "app_num": 2060
+    },
+    "Landroid/view/ViewGroup;->removeView": {
+        "call_num": 25444,
+        "app_num": 1546
+    },
+    "Ljava/lang/reflect/Array;->newInstance": {
+        "call_num": 14970,
+        "app_num": 1457
+    },
+    "Landroid/support/v4/view/ViewPager;->getDrawableState": {
+        "call_num": 1274,
+        "app_num": 1274
+    },
+    "Landroid/os/Bundle;->getInt": {
+        "call_num": 60645,
+        "app_num": 1721
+    },
+    "Landroid/widget/LinearLayout;-><init>": {
+        "call_num": 49285,
+        "app_num": 1872
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setNonPrimaryAlpha": {
+        "call_num": 1159,
+        "app_num": 1159
+    },
+    "Landroid/view/VelocityTracker;->getXVelocity": {
+        "call_num": 4697,
+        "app_num": 1368
+    },
+    "Ljava/lang/String;->lastIndexOf": {
+        "call_num": 31611,
+        "app_num": 2011
+    },
+    "Landroid/view/View;->layout": {
+        "call_num": 25120,
+        "app_num": 1456
+    },
+    "Landroid/content/Context;->getClassLoader": {
+        "call_num": 15281,
+        "app_num": 1550
+    },
+    "Landroid/os/Bundle;->putBundle": {
+        "call_num": 18523,
+        "app_num": 1327
+    },
+    "Ljava/lang/String;->endsWith": {
+        "call_num": 47666,
+        "app_num": 1946
+    },
+    "Landroid/view/View;->setAccessibilityDelegate": {
+        "call_num": 1456,
+        "app_num": 1287
+    },
+    "Landroid/app/Notification$BigPictureStyle;-><init>": {
+        "call_num": 1245,
+        "app_num": 1193
+    },
+    "Landroid/util/AndroidRuntimeException;-><init>": {
+        "call_num": 7370,
+        "app_num": 1324
+    },
+    "Landroid/widget/Scroller;->abortAnimation": {
+        "call_num": 7934,
+        "app_num": 1367
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getMovementGranularities": {
+        "call_num": 1192,
+        "app_num": 1188
+    },
+    "Landroid/content/ComponentName;->getPackageName": {
+        "call_num": 7817,
+        "app_num": 1612
+    },
+    "Landroid/view/View;->getWindowToken": {
+        "call_num": 7609,
+        "app_num": 1402
+    },
+    "Landroid/widget/FrameLayout;-><init>": {
+        "call_num": 39755,
+        "app_num": 1721
+    },
+    "Landroid/view/MotionEvent;->recycle": {
+        "call_num": 13478,
+        "app_num": 1298
+    },
+    "Landroid/util/SparseArray;->size": {
+        "call_num": 15627,
+        "app_num": 1396
+    },
+    "Ljava/lang/System;->identityHashCode": {
+        "call_num": 22226,
+        "app_num": 1362
+    },
+    "Landroid/os/Parcel;->createTypedArray": {
+        "call_num": 5030,
+        "app_num": 1344
+    },
+    "Ljava/util/ArrayList;->contains": {
+        "call_num": 22743,
+        "app_num": 1578
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getBackground": {
+        "call_num": 1188,
+        "app_num": 1188
+    },
+    "Landroid/widget/TextView;->setEllipsize": {
+        "call_num": 10970,
+        "app_num": 1528
+    },
+    "Landroid/app/Activity;->onResume": {
+        "call_num": 9050,
+        "app_num": 2015
+    },
+    "Landroid/view/animation/AnimationUtils;->loadAnimation": {
+        "call_num": 15449,
+        "app_num": 1506
+    },
+    "Ljava/util/ArrayList;->get": {
+        "call_num": 360033,
+        "app_num": 1990
+    },
+    "Landroid/app/Service;-><init>": {
+        "call_num": 9168,
+        "app_num": 1876
+    },
+    "Landroid/widget/TextView;->getBaseline": {
+        "call_num": 3701,
+        "app_num": 1197
+    },
+    "Landroid/text/Html;->fromHtml": {
+        "call_num": 8671,
+        "app_num": 1511
+    },
+    "Ljava/lang/Class;->forName": {
+        "call_num": 81971,
+        "app_num": 1820
+    },
+    "Landroid/widget/TextView;->setSingleLine": {
+        "call_num": 13972,
+        "app_num": 1545
+    },
+    "Landroid/content/Intent;->setClassName": {
+        "call_num": 10307,
+        "app_num": 1433
+    },
+    "Landroid/view/View;->getLeft": {
+        "call_num": 59633,
+        "app_num": 1389
+    },
+    "Landroid/app/Activity;->onPause": {
+        "call_num": 7638,
+        "app_num": 1766
+    },
+    "Landroid/support/v4/view/ViewPager;->scrollTo": {
+        "call_num": 11409,
+        "app_num": 1304
+    },
+    "Landroid/view/animation/AnimationSet;-><init>": {
+        "call_num": 5723,
+        "app_num": 1649
+    },
+    "Landroid/content/Intent;->addCategory": {
+        "call_num": 10516,
+        "app_num": 1788
+    },
+    "Landroid/app/PendingIntent;->getActivity": {
+        "call_num": 12146,
+        "app_num": 2015
+    },
+    "Ljava/io/File;->exists": {
+        "call_num": 117428,
+        "app_num": 2155
+    },
+    "Landroid/widget/TextView;->setFocusable": {
+        "call_num": 3110,
+        "app_num": 1324
+    },
+    "Landroid/database/Cursor;->getLong": {
+        "call_num": 33800,
+        "app_num": 1565
+    },
+    "Landroid/view/MotionEvent;->getY": {
+        "call_num": 56919,
+        "app_num": 1754
+    },
+    "Landroid/os/Handler;->post": {
+        "call_num": 101561,
+        "app_num": 1958
+    },
+    "Landroid/app/Notification$BigTextStyle;->setSummaryText": {
+        "call_num": 1255,
+        "app_num": 1184
+    },
+    "Landroid/widget/TextView;->setVisibility": {
+        "call_num": 81470,
+        "app_num": 1896
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setLongClickable": {
+        "call_num": 1241,
+        "app_num": 1224
+    },
+    "Landroid/view/accessibility/AccessibilityRecord;->setItemCount": {
+        "call_num": 1264,
+        "app_num": 1258
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getPaddingRight": {
+        "call_num": 2376,
+        "app_num": 1188
+    },
+    "Landroid/widget/EdgeEffect;->onRelease": {
+        "call_num": 2123,
+        "app_num": 1295
+    },
+    "Landroid/widget/SearchView;-><init>": {
+        "call_num": 1914,
+        "app_num": 1154
+    },
+    "Landroid/view/View$MeasureSpec;->makeMeasureSpec": {
+        "call_num": 91219,
+        "app_num": 1560
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getPaddingLeft": {
+        "call_num": 2376,
+        "app_num": 1188
+    },
+    "Landroid/content/res/TypedArray;->getDimensionPixelSize": {
+        "call_num": 24115,
+        "app_num": 1294
+    },
+    "Landroid/widget/Scroller;->getFinalX": {
+        "call_num": 2342,
+        "app_num": 1283
+    },
+    "Landroid/support/v4/app/FragmentActivity;->getLastNonConfigurationInstance": {
+        "call_num": 2394,
+        "app_num": 1249
+    },
+    "Landroid/view/MenuItem;->hasSubMenu": {
+        "call_num": 2955,
+        "app_num": 1230
+    },
+    "Landroid/view/VelocityTracker;->clear": {
+        "call_num": 7875,
+        "app_num": 1329
+    },
+    "Landroid/os/Handler;->postDelayed": {
+        "call_num": 39195,
+        "app_num": 1605
+    },
+    "Landroid/app/Activity;->onStart": {
+        "call_num": 4730,
+        "app_num": 1572
+    },
+    "Landroid/os/Bundle;->putInt": {
+        "call_num": 64362,
+        "app_num": 1623
+    },
+    "Landroid/app/Notification$InboxStyle;->addLine": {
+        "call_num": 1260,
+        "app_num": 1196
+    },
+    "Landroid/content/Context;->startService": {
+        "call_num": 15829,
+        "app_num": 1824
+    },
+    "Ljava/io/File;->mkdir": {
+        "call_num": 7668,
+        "app_num": 1795
+    },
+    "Landroid/content/Intent;-><init>": {
+        "call_num": 255368,
+        "app_num": 2661
+    },
+    "Landroid/view/View$AccessibilityDelegate;->onPopulateAccessibilityEvent": {
+        "call_num": 1293,
+        "app_num": 1279
+    },
+    "Landroid/view/VelocityTracker;->computeCurrentVelocity": {
+        "call_num": 9700,
+        "app_num": 1375
+    },
+    "Ljava/lang/StringBuilder;->length": {
+        "call_num": 38082,
+        "app_num": 1811
+    },
+    "Landroid/app/Activity;->navigateUpTo": {
+        "call_num": 1241,
+        "app_num": 1224
+    },
+    "Landroid/content/Context;->getPackageManager": {
+        "call_num": 103029,
+        "app_num": 2117
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->isScrollable": {
+        "call_num": 1281,
+        "app_num": 1270
+    },
+    "Ljava/lang/String;->length": {
+        "call_num": 577352,
+        "app_num": 2313
+    },
+    "Landroid/widget/TextView;->getRight": {
+        "call_num": 4827,
+        "app_num": 1188
+    },
+    "Landroid/view/MotionEvent;->obtain": {
+        "call_num": 14078,
+        "app_num": 1387
+    },
+    "Landroid/widget/TextView;-><init>": {
+        "call_num": 44600,
+        "app_num": 1870
+    },
+    "Landroid/app/Notification$Builder;->setDefaults": {
+        "call_num": 6457,
+        "app_num": 1253
+    },
+    "Ljava/lang/Character;->toString": {
+        "call_num": 3425,
+        "app_num": 1007
+    },
+    "Ljava/lang/ref/WeakReference;->get": {
+        "call_num": 148387,
+        "app_num": 1672
+    },
+    "Landroid/widget/Button;->setVisibility": {
+        "call_num": 18752,
+        "app_num": 1311
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->invalidate": {
+        "call_num": 3495,
+        "app_num": 1179
+    },
+    "Landroid/app/AlertDialog$Builder;->setTitle": {
+        "call_num": 21154,
+        "app_num": 1825
+    },
+    "Landroid/app/Notification$Builder;->setSmallIcon": {
+        "call_num": 7887,
+        "app_num": 1309
+    },
+    "Landroid/view/ViewGroup;->getChildAt": {
+        "call_num": 23361,
+        "app_num": 1621
+    },
+    "Landroid/view/View;->setVisibility": {
+        "call_num": 124366,
+        "app_num": 1777
+    },
+    "Ljava/lang/Long;->valueOf": {
+        "call_num": 255446,
+        "app_num": 1749
+    },
+    "Ljava/util/Iterator;->hasNext": {
+        "call_num": 687843,
+        "app_num": 2308
+    },
+    "Landroid/view/ViewGroup;->onAttachedToWindow": {
+        "call_num": 6127,
+        "app_num": 1325
+    },
+    "Landroid/app/Activity;->onKeyDown": {
+        "call_num": 4342,
+        "app_num": 1512
+    },
+    "Landroid/text/method/SingleLineTransformationMethod;->getTransformation": {
+        "call_num": 1196,
+        "app_num": 1193
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->getClassName": {
+        "call_num": 1347,
+        "app_num": 1276
+    },
+    "Landroid/os/Bundle;->putSparseParcelableArray": {
+        "call_num": 5522,
+        "app_num": 1332
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->getHeight": {
+        "call_num": 2371,
+        "app_num": 1188
+    },
+    "Landroid/widget/Filter;-><init>": {
+        "call_num": 1609,
+        "app_num": 1291
+    },
+    "Landroid/widget/Scroller;-><init>": {
+        "call_num": 4369,
+        "app_num": 1367
+    },
+    "Landroid/view/View;->getMeasuredHeight": {
+        "call_num": 56070,
+        "app_num": 1480
+    },
+    "Landroid/graphics/Paint;-><init>": {
+        "call_num": 44716,
+        "app_num": 1801
+    },
+    "Ljava/lang/Class;->getMethod": {
+        "call_num": 72077,
+        "app_num": 1647
+    },
+    "Landroid/support/v4/view/ViewPager;->refreshDrawableState": {
+        "call_num": 1259,
+        "app_num": 1255
+    },
+    "Landroid/view/View;->startAnimation": {
+        "call_num": 19601,
+        "app_num": 1689
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->requestLayout": {
+        "call_num": 3532,
+        "app_num": 1188
+    },
+    "Landroid/support/v4/app/FragmentActivity;->getResources": {
+        "call_num": 3276,
+        "app_num": 1047
+    },
+    "Ljava/lang/Long;->parseLong": {
+        "call_num": 38728,
+        "app_num": 1627
+    },
+    "Landroid/widget/Filter$FilterResults;-><init>": {
+        "call_num": 1615,
+        "app_num": 1291
+    },
+    "Ljava/lang/String;-><init>": {
+        "call_num": 211388,
+        "app_num": 2417
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;->setMeasuredDimension": {
+        "call_num": 1841,
+        "app_num": 1188
+    },
+    "Landroid/widget/ProgressBar;-><init>": {
+        "call_num": 7132,
+        "app_num": 1710
+    },
+    "Landroid/view/View;-><init>": {
+        "call_num": 17977,
+        "app_num": 1629
+    },
+    "Landroid/widget/Scroller;->getCurrX": {
+        "call_num": 6501,
+        "app_num": 1379
+    },
+    "Landroid/view/View$AccessibilityDelegate;->performAccessibilityAction": {
+        "call_num": 1284,
+        "app_num": 1272
+    },
+    "Ljava/util/Map$Entry;->getValue": {
+        "call_num": 118414,
+        "app_num": 1806
+    },
+    "Landroid/content/SharedPreferences$Editor;->putBoolean": {
+        "call_num": 21989,
+        "app_num": 1709
+    },
+    "Ljavax/crypto/spec/SecretKeySpec;-><init>": {
+        "call_num": 7641,
+        "app_num": 1337
+    },
+    "Landroid/view/accessibility/AccessibilityNodeProvider;-><init>": {
+        "call_num": 2171,
+        "app_num": 1276
+    },
+    "Landroid/view/Window;->getDecorView": {
+        "call_num": 25172,
+        "app_num": 1460
+    },
+    "Landroid/text/TextUtils;->isEmpty": {
+        "call_num": 422612,
+        "app_num": 1806
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setFocusable": {
+        "call_num": 1241,
+        "app_num": 1226
+    },
+    "Landroid/content/Context;->getPackageName": {
+        "call_num": 132519,
+        "app_num": 2189
+    },
+    "Landroid/view/View;->addFocusables": {
+        "call_num": 2666,
+        "app_num": 1302
+    },
+    "Landroid/database/Cursor;->getCount": {
+        "call_num": 22102,
+        "app_num": 1654
+    },
+    "Landroid/content/Context;->sendBroadcast": {
+        "call_num": 12812,
+        "app_num": 1554
+    },
+    "Landroid/content/Context;->getFilesDir": {
+        "call_num": 14420,
+        "app_num": 1551
+    },
+    "Landroid/app/Notification$BigTextStyle;->bigText": {
+        "call_num": 2308,
+        "app_num": 1203
+    },
+    "Ljava/lang/String;->toUpperCase": {
+        "call_num": 22711,
+        "app_num": 1649
+    },
+    "Landroid/os/Bundle;->keySet": {
+        "call_num": 17570,
+        "app_num": 1411
+    },
+    "Landroid/database/Cursor;->unregisterDataSetObserver": {
+        "call_num": 1329,
+        "app_num": 1264
+    },
+    "Landroid/view/MenuItem;->getActionProvider": {
+        "call_num": 1255,
+        "app_num": 1155
+    },
+    "Landroid/app/Activity;->getParentActivityIntent": {
+        "call_num": 1243,
+        "app_num": 1224
+    },
+    "Landroid/view/View;->postDelayed": {
+        "call_num": 5623,
+        "app_num": 1329
+    },
+    "Landroid/support/v4/view/PagerTabStrip;->getPaddingLeft": {
+        "call_num": 2266,
+        "app_num": 1179
+    },
+    "Landroid/net/ConnectivityManager;->getNetworkInfo": {
+        "call_num": 5351,
+        "app_num": 1519
+    },
+    "Landroid/view/ViewGroup;->requestLayout": {
+        "call_num": 3472,
+        "app_num": 1303
+    },
+    "Landroid/support/v4/view/PagerTitleStrip;-><init>": {
+        "call_num": 2328,
+        "app_num": 1183
+    },
+    "Ljava/io/File;->delete": {
+        "call_num": 66317,
+        "app_num": 2067
+    },
+    "Landroid/view/accessibility/AccessibilityNodeInfo;->setClassName": {
+        "call_num": 4363,
+        "app_num": 1286
+    },
+    "Landroid/content/Intent;->getExtras": {
+        "call_num": 37476,
+        "app_num": 1979
+    },
+    "Landroid/view/accessibility/AccessibilityRecord;->setToIndex": {
+        "call_num": 1265,
+        "app_num": 1258
+    },
+    "Landroid/net/Uri;->parse": {
+        "call_num": 98389,
+        "app_num": 2424
+    },
+    "Landroid/app/Notification$BigPictureStyle;->bigPicture": {
+        "call_num": 1245,
+        "app_num": 1193
+    },
+    "Landroid/app/Notification$Builder;->setVibrate": {
+        "call_num": 6323,
+        "app_num": 1249
+    },
+    "Landroid/app/Notification$Builder;->setContentInfo": {
+        "call_num": 6317,
+        "app_num": 1255
+    },
+    "Landroid/view/KeyEvent;->getAction": {
+        "call_num": 14449,
+        "app_num": 1623
+    },
+    "Landroid/widget/Scroller;->getCurrY": {
+        "call_num": 4723,
+        "app_num": 1375
+    },
+    "Landroid/view/View;->addTouchables": {
+        "call_num": 1374,
+        "app_num": 1286
+    }
+}

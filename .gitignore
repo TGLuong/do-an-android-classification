@@ -1,0 +1,6 @@
+/env
+# /JsonFilesToMatrix/output/*
+.vscode
+/Training_PyG/old_3000/
+__pycache__/
+/Dataset/*
